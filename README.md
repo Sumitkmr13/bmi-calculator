@@ -11,6 +11,7 @@ It takes users height(cm) and weight(kg) and calculates their BMI
   <li>CSS</li>
 </ol>
 
+<h3>Demo: https://bmi-calculator01.netlify.app/</h3>
 <br>
 <h2>Project Screenshots:</h2>
 <div><span><img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1632645086/project/Screenshot_78_j6jwjt.png" width="500px"></span>
